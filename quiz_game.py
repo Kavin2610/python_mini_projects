@@ -16,8 +16,8 @@ if answer.upper() == "ELON MUSK":
 	score += 1
 else:
 	score += 0
-answer = input("What is the capital city of Tamil Nadu? : ")
-if answer.upper() == "CHENNAI":
+answer = input("What is the capital of UK? : ")
+if answer.upper() == "LONDON":
 	score += 1
 else:
 	score += 0
